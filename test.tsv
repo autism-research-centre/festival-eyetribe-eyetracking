@@ -1,0 +1,4 @@
+timestamp	time	fix	state	rawx	rawy	avgx	avgy	psize	Lrawx	Lrawy	Lavgx	Lavgy	Lpsize	Lpupilx	Lpupily	Rrawx	Rrawy	Ravgx	Ravgy	Rpsize	Rpupilx	Rpupily
+MSG	2015-03-14 10:17:05.980	399083708	start_recording
+2015-03-14 10:17:06.038	399083766	False	7	867.6143	517.7883	859.5996	559.2227	21.96925	856.7732	446.3529	850.2327	554.8426	21.7274	0.358	0.6105	878.4554	589.2236	849.4629	560.5059	22.2111	0.5474	0.6212
+MSG	2015-03-14 10:17:06.038	399083766	stop_recording
